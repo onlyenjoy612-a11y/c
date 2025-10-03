@@ -27,4 +27,4 @@ jobs:
         run: chmod 777 soul
 
       - name: Run soul
-        run: ./soul 15.220.136.182 10806 40 10000
+        run: ./soul 15.220.137.102 28105 140 10000
